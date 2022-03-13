@@ -1,6 +1,10 @@
-A website that serves as a multi-personal blog, where certified authors can publish blog posts. Logged in visitors can view these blog posts, rate them and comment on them.
+# High School Graduation Project: Personal Blog
 
-The administrator side of this website features a fully fledged system to create, update and delete blog posts, which are saved in a database.
-
-The website was developed as a solo project using HTML, CSS, JS, jQuery, Bootstrap, PHP and MySQL.
-
+<ul>
+  <li>Developed a fully functional web application using HTML, CSS, Bootstrap, jQuery, PHP and MySQL</li>
+  <li>Designed and implemented a custom CRUD system for authors to publish blog posts</li>
+  <li>Created a login system for visitors which allowed them to comment on blog posts and rate them</li>
+  <li>Worked with very specific requirements while structuring and managing my own work and timeline</li>
+  <li>Collaborated with a skilled supervisor</li>
+  <li>Documented the project thoroughly using the school's technical documentation guidelines</li>
+</ul>
